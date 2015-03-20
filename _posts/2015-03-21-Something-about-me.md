@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title: Something about me
 categories: [me, bio]
-tags: []
+tags: [me, bio, devendra]
 fullview: true
 ---
 
